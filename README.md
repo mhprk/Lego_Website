@@ -1,20 +1,20 @@
 # 🧱 Lego Website
 
-The **Lego Website** is a visually appealing and interactive platform inspired by Lego. It showcases creative designs, responsive layouts, and dynamic content to engage users while bringing the Lego theme to life. 🚀  
+The **Lego Website** is a fully interactive and visually captivating platform inspired by Lego. Designed with precision, it combines dynamic content, responsive layouts, and engaging functionality to provide users with an exceptional experience. 🚀  
 
 ---
 
 ## 🌟 Features
 
-- 🖌️ **CSS:** Clean and responsive design with 79.5% of the codebase dedicated to styling.  
-- 📜 **EJS Templates:** Dynamic rendering to create reusable components and pages.  
-- ⚡ **JavaScript:** Interactive functionality to enhance user experience.  
+- 🖌️ **CSS:** A clean, modern, and responsive design that ensures consistent performance across all devices.  
+- 📜 **EJS Templates:** Dynamic server-side rendering for reusable and efficient components.  
+- ⚡ **JavaScript:** Interactive elements that enhance usability and engagement.  
 
 ---
 
 ## 🌐 Live Demo
 
-Check out the live version of the website here: [Lego Website](https://lego-website-phi.vercel.app)
+Experience the website live here: [Lego Website](lego-website-phi.vercel.app)
 
 ---
 
@@ -28,10 +28,11 @@ Check out the live version of the website here: [Lego Website](https://lego-webs
 ## 📂 Project Structure
 
 1. **Frontend:**  
-   - Responsive design for seamless experience across devices.  
-   - Interactive elements built with JavaScript.  
+   - Crafted with CSS for responsive and visually appealing layouts.  
+   - Interactive functionality implemented using JavaScript for seamless user experiences.  
 
-2. **Backend (if applicable):**  
-   - Dynamic EJS templates for server-side rendering.  
+2. **Backend:**  
+   - Built using **EJS (Embedded JavaScript Templates)** for server-side rendering.  
+   - Designed to handle routing and dynamic content generation efficiently.  
 
 ---
