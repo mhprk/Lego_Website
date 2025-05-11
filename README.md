@@ -14,7 +14,7 @@ The **Lego Website** is a fully interactive and visually captivating platform in
 
 ## 🌐 Live Demo
 
-Experience the website live here: [Lego Website](lego-website-phi.vercel.app)
+Experience the website live here: [Lego Website](https://lego-website-phi.vercel.app/)
 
 ---
 
